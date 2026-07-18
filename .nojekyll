@@ -1,0 +1,1 @@
+# 禁用 GitHub Pages 的 Jekyll 构建，直接以静态文件发布（保留 assets/、sw.js 原样）
